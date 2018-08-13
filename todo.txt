@@ -1,0 +1,4 @@
+やることリスト
+
+./image/common/favicon.ico を追加
+./artist/index.html を2018年用に更新
